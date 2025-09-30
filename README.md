@@ -1,5 +1,7 @@
 ### Hello there, I'm Arjun
-I'm a student and software developer interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉+ |Cryptography 🔐〉
+I'm a student and software developer interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉
+
+<!-- + |Cryptography 🔐〉 -->
 
 
 #### Github is a mess, here's an index:
