@@ -1,5 +1,8 @@
 ### Hello there, I'm Arjun
-I'm a student and software developer interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉
+
+I'm a Computer Engineering undergrad student at UC Santa Barbara. Here is a not-very-organized collection of open source projects I've made.
+
+<!-- I'm a student and software developer interested in |Electronics ⚡️〉+ |Machine Learning 🤖〉+ |Quantum Computing :atom:〉 -->
 
 <!-- + |Cryptography 🔐〉 -->
 
